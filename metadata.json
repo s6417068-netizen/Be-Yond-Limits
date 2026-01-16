@@ -1,0 +1,5 @@
+{
+  "name": "School Activity Score Tracker",
+  "description": "A student registration and point collection system for school activities with 4 stations, each having 4 games, featuring a red theme and AI-powered performance feedback.",
+  "requestFramePermissions": []
+}
